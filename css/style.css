@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #050505;
+}
+
+main {
+  width: 70%;
+  margin: 0 auto;
+}
+main article h1 {
+  height: 25px;
+  background-color: #af2121;
+  color: #f0f0f0;
+  padding: 6px 20px 6px 20px;
+  margin-top: 15px;
+  border-radius: 20px;
+  display: inline-block;
+}
+main article h2 {
+  color: #f0f0f0;
+  padding: 15px 0 4px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+main article p {
+  background-color: #f0f0f0;
+  border-top: 2px solid #af2121;
+  border-left: 2px solid #af2121;
+  border-top-left-radius: 20px;
+  padding: 4px 25px;
+  margin-bottom: 30px;
+  line-height: 1.6em;
+}/*# sourceMappingURL=style.css.map */
